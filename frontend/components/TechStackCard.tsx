@@ -27,6 +27,7 @@ const TechStackCard = () => {
         {techStack.map((tech, index) => (
             <Image
               src={tech.src}
+              key={index}
               alt={tech.alt}
               width={64}
               height={64}
