@@ -10,7 +10,7 @@ const Footer = () => {
        <div className="flex flex-col items-center justify-center gap-10">
             <div className="flex flex-col items-center justify-center gap-5">
               <img src="/mypic.png" alt="my avator" className="w-[400px] h-full"/>
-              <h1 className="text-xl lg:max-w-[45vw] text-balance text-center">"Thanks for visiting my portfolio. Let's connect and turn your ideas into reality with innovative and reliable solutions that meet your needs."</h1>
+              <h1 className="text-xl lg:max-w-[45vw] text-balance text-center">"Thanks for visiting my portfolio. Let us connect and turn your ideas into reality with innovative and reliable solutions that meet your needs."</h1>
             </div>
        </div>
        <SignupFormDemo/>
